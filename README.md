@@ -1,4 +1,5 @@
-# 👋 Hello, I'm Ahmed Sameh
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmeddsameh-glitch.ahmeddsameh-glitch" />
+
 
 A passionate **Software Engineer** from Egypt 🇪🇬, specializing in full-stack development with a focus on **scalable**, **efficient**, and **user-centric applications**.
 
@@ -54,3 +55,69 @@ Let's talk tech, collaboration, or opportunities! Feel free to reach out:
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+## ✨ Animations
+
+To make your README even more dynamic, you can add animations with **CSS**. Here's an example of how to animate text and other elements.
+
+### Fade-In Effect
+
+Use this code to make elements fade in as the page loads:
+
+```html
+<div class="fade-in">
+    <h1>Welcome to My Portfolio</h1>
+    <p>This content fades in as you load the page.</p>
+</div>
+
+<style>
+.fade-in {
+    animation: fadeIn 2s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+</style>
+<div class="slide-in">
+    <h2>Explore My Projects</h2>
+    <p>Scroll down to see my projects slide in!</p>
+</div>
+
+<style>
+.slide-in {
+    animation: slideIn 1s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateX(-100%);
+    }
+    to {
+        transform: translateX(0);
+    }
+}
+</style>
+<button class="animated-btn">Click Me</button>
+
+<style>
+.animated-btn {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.animated-btn:hover {
+    transform: scale(1.1);
+}
+</style>
