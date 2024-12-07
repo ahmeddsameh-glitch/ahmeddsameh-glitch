@@ -1,15 +1,15 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmeddsameh-glitch.ahmeddsameh-glitch" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Sameh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Ahmed+Sameh!;" />
 </h1>
 
-<h3 align="center">A passionate Software Engineer from Egypt 🇪🇬</h3>
+<h3 align="center">A Dedicated Software Engineer from Egypt 🇪🇬</h3>
 
 <br/>
 
 <p align="center">
-    <strong>"Turning Ideas into Impactful Code"</strong>
+    <strong>"Transforming Ideas into Powerful Code"</strong>
 </p>
 
 <div align="center">
@@ -28,24 +28,24 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Ahmed Sameh**, a Software Engineer based in Egypt 🇪🇬. My passion lies in developing **scalable, high-performance** applications and building solutions with a strong emphasis on **user experience**.
+Hi, I'm **Ahmed Sameh**, a **Software Engineer** based in Egypt 🇪🇬. My passion is creating **scalable applications** with a focus on performance, simplicity, and **clean, maintainable code**.
 
-### 🌟 Skills & Focus Areas:
-- **Frontend**: React, Next.js, Bootstrap, Tailwind, Material-UI, JavaFX
+### 🔧 Skills & Expertise:
+- **Frontend**: React, Next.js, JavaFX, Tailwind, Material-UI
 - **Backend**: Node.js, Express, Python, Java
 - **Databases**: MongoDB, MySQL
-- **Design Patterns**: Familiar with SOLID principles and key design patterns for scalable code
-- **Others**: Git, Figma, VS Code, RESTful APIs, Redux, and more.
+- **Design**: Proficient in design patterns and SOLID principles
+- **Tools**: Git, Redux, Figma, VS Code, RESTful APIs
 
 ---
 
-## 🌍 Mission
+## 🚀 Mission
 
-My mission is to create **innovative and sustainable software solutions** that leverage **best practices** in software architecture, user-centric design, and code maintainability, while continuously learning and adopting new technologies in the software development world.
+My goal is to build **innovative software solutions** that integrate **modern technologies** with **intuitive user experiences**, all while constantly refining my craft and advancing in software architecture.
 
 ---
 
-## 🛠️ Languages, Frameworks, and Tools
+## 🛠️ Languages & Frameworks
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
@@ -55,7 +55,7 @@ My mission is to create **innovative and sustainable software solutions** that l
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmeddsameh-glitch&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
@@ -72,11 +72,11 @@ My mission is to create **innovative and sustainable software solutions** that l
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Collaborate!
 
-Feel free to reach out or check out my work:
+Connect with me or explore my projects:
 
-- 📧 [Gmail](mailto:a.samehpsn@gmail.com)
+- 📧 [Email Me](mailto:a.samehpsn@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-sameh-3a8a55290)
 - 🌐 [Portfolio](https://ahmeddsameh-glitch.github.io)
 
