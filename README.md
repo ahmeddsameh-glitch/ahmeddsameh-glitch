@@ -43,19 +43,7 @@ My mission is to create **innovative and sustainable software solutions** that l
 - SOLID principles, UX/UI Design, Figma, VS Code
 
 ---
-
-## 🚀 Let's Connect!
-
-Feel free to reach out or check out my work:
-
-- 📧 [Email](mailto:a.samehpsn@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-sameh-3a8a55290)
-- 🌐 [Portfolio](https://ahmeddsameh-glitch.github.io)
-
----
-
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
 ---
 
 ## 🤝 Let's Connect!
