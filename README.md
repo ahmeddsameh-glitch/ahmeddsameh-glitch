@@ -1,22 +1,11 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmed+Sameh!;Full+Stack+Engineer+💻;AI+&+NLP+Enthusiast+🤖;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Ahmed+Sameh!;" alt="Typing SVG" />
+  </a>
 </h1>
 
-<p align="center">
-  A passionate Software Engineer from Egypt 🇪🇬, bridging the gap between complex database architectures and responsive frontend designs.
-</p>
-
+A passionate **Software Engineer** from Egypt 🇪🇬, specializing in full-stack development with a focus on **scalable**, **efficient**, and **user-centric applications**.
 ---
-
-## 📈 GitHub Stats
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmeddsameh-glitch&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddsameh-glitch&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 Hello! I'm **Ahmed Sameh**, a **Computer & Communications Engineering Student** based in Alexandria, Egypt.
