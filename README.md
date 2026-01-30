@@ -10,8 +10,12 @@ A passionate **Software Engineer** from Egypt 🇪🇬, specializing in full-sta
 ## 📈 GitHub Stats
 
 <div align="center">
+  <a href="https://github.com/ahmeddsameh-glitch">
     <img src="https://github-readme-stats.vercel.app/api?username=ahmeddsameh-glitch&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  </a>
+  <a href="https://github.com/ahmeddsameh-glitch">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeddsameh-glitch&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </div>
 
 ---
